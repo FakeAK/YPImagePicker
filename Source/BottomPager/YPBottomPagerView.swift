@@ -22,11 +22,7 @@ final class YPBottomPagerView: UIView {
             scrollView
         )
         
-        layout(
-            0,
-            |scrollView|,
-            0
-        )
+        header.fillContainer()
         
         if #available(iOS 11.0, *) {
             header.Bottom == safeAreaLayoutGuide.Bottom

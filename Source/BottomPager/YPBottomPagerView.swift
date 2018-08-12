@@ -22,7 +22,7 @@ final class YPBottomPagerView: UIView {
             scrollView
         )
         
-        header.fillContainer()
+        scrollView.fillContainer()
         
         clipsToBounds = false
         scrollView.clipsToBounds = false

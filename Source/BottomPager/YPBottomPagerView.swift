@@ -24,12 +24,6 @@ final class YPBottomPagerView: UIView {
         
         header.fillContainer()
         
-        if #available(iOS 11.0, *) {
-            header.Bottom == safeAreaLayoutGuide.Bottom
-        } else {
-            header.bottom(0)
-        }
-        
         clipsToBounds = false
         scrollView.clipsToBounds = false
         scrollView.isPagingEnabled = true

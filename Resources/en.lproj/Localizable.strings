@@ -8,8 +8,8 @@
 "YPImagePickerNext" = "Next";
 "YPImagePickerOk" = "Ok";
 "YPImagePickerPermissionDeniedPopupCancel" = "Cancel";
-"YPImagePickerPermissionDeniedPopupGrantPermission" = "Grant Permission";
-"YPImagePickerPermissionDeniedPopupMessage" = "Please allow access";
+"YPImagePickerPermissionDeniedPopupGrantPermission" = "Give Matcher permission to access your photos";
+"YPImagePickerPermissionDeniedPopupMessage" = "You have to give access to your photo library and pick a photo to continue.";
 "YPImagePickerPermissionDeniedPopupTitle" = "Permission denied";
 "YPImagePickerPhoto" = "Photo";
 "YPImagePickerProcessing" = "Processing..";
